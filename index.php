@@ -96,7 +96,7 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 			<br>
 				<div class="row">
 					<div class="col-lg-4 centered">
-						<img class="img-responsive" src="assets/img/faysal2.JPG" align="">
+						<img class="img-responsive" src="assets/img/alpha.jpg" align="">
 					</div>
 					<div class="col-lg-8" style="margin-top: 15px;">
 						<h2 style="margin: 0px;">Que recherchez- vous ?</h2>
