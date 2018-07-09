@@ -6,8 +6,8 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 	$email=nl2br(stripslashes($email));
 	$message=nl2br(stripslashes($message));
 	
-	$destinataire="faysalgluma@gmail.com";
-	$sujet="Formulaire de contact depuis faysalsanda.herokuapp.com";
+	$destinataire="hassanemahambi2018@gmail.com";
+	$sujet="Formulaire de contact depuis le site internet";
 	$entete='De : '.$email.'';
 	$message='Nom : '.$nomprenoms.' '."\n".$email.' '."\n"."\n".'Message : '.$message;
 	
@@ -29,7 +29,7 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Faysal SANDA">
 
-    <title>ALPHA ASSANE</title>
+    <title>ALPHA HASSANE</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -84,7 +84,7 @@ if(isset($_POST['nomprenoms'])  AND !empty ($_POST['email']) AND !empty ($_POST[
 		<!-- ==== SECTION DIVIDER2 -->
 		<section class="section-divider textdivider" id="home" style="background-color: #327684; padding-bottom: 50px;">
 			<div class="container">
-				<h1 style="padding: 10px;">ALPHA ASSANE</h1>
+				<h1 style="padding: 10px;">ALPHA HASSANE</h1>
 				<hr>
 				<p>Alpha, Spécialiste de Voyance et de guérisons.</p>
 			</div><!-- container -->
